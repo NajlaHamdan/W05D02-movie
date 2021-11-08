@@ -1,0 +1,25 @@
+{
+  "name": "w05d02-movie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js",
+    "dev":"nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NajlaHamdan/W05D02-movie.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NajlaHamdan/W05D02-movie/issues"
+  },
+  "homepage": "https://github.com/NajlaHamdan/W05D02-movie#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
